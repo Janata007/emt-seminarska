@@ -17,6 +17,7 @@
         <module>product-context</module>
         <module>order-context</module>
         <module>audience-context</module>
+        <module>tv-show-context</module>
     </modules>
 
 </project>
